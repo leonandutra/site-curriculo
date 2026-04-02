@@ -53,7 +53,7 @@ section{
     text-align: left;}
 
 section:hover{
-    background-color:aquamarine;
+    /* background-color:aquamarine; */
     transition: 2s;
     font-size: 25px;
 }
