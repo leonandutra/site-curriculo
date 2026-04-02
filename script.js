@@ -1,11 +1,11 @@
 var visitante = 3;
-var nome = "Pedro Samuel"
+var nome = "Visitante"
 
 //se o visitante = 3 ganha o prêmio
 if (visitante === 3){
-alert("Parabéns "+nome+", você ganhou 27 mil reais")
+alert("olá "+nome+", Este é o meu currículo virtual")
 }else {
-    alert ( "Perdeu haha!!");
+    alert ( "Bem vindo !!!");
 }
 
 //obtém o componente do menu do celular(icone)
